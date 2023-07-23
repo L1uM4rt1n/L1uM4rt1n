@@ -12,11 +12,11 @@
 ## 🌐 Social:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martin-liu-43b39744/) <br>
 
-## 👨‍💻 Work Experience
+## 👨‍💻 Work Experiences
 <ul>
-  <li> <b>Jul 2022 - Sep 2022</b>: Data & Reporting Intern @ MindshareSG, GroupM SG</li>
-  <li> <b>Jan 2023 - Jun 2023</b>: Data Intelligence Analyst Intern @ SAP</li>
   <li> <b>Jul 2023 - Present</b>: Full-Stack Developer Intern @ SAP</li>
+  <li> <b>Jan 2023 - Jun 2023</b>: Data Intelligence Analyst Intern @ SAP</li>
+  <li> <b>Jul 2022 - Sep 2022</b>: Data & Reporting Intern @ MindshareSG, GroupM SG</li>
 </ul>
 
 ## 📊 GitHub Stats:

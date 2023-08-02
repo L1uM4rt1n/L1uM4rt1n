@@ -21,4 +21,4 @@
 
 ## 📊 GitHub Stats:
 ### You are visitor number: &nbsp; <img src="https://profile-counter.glitch.me/L1uM4rt1n/count.svg?" width="300"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=L1uM4rt1n&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false&order=2" height="210" alt="languages graph" /> <br>
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=L1uM4rt1n&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false&order=2" height="210" alt="languages graph" /> <br> -->

@@ -20,4 +20,6 @@
 
 ## 📊 GitHub Stats:
 ### You are visitor number: &nbsp; <img src="https://profile-counter.glitch.me/L1uM4rt1n/count.svg?" width="300"/>
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=L1uM4rt1n&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false&order=2" height="210" alt="languages graph" /> <br> -->
+<!-- [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=L1uM4rt1n&hide=jupyter%20notebook&theme=tokyonight&count-private=true&langs_count=10)](https://github.com/L1uM4rt1n/github-readme-stats) -->
+
+<!-- vercel reference link: https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own-vercel-instance -->

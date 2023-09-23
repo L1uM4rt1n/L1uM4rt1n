@@ -4,7 +4,8 @@
   <li>🏫 I'm a Penultimate student @ SMU</li>
   <li>💻 I'm pursuing a Bachelor of Science in Information Systems, specialising in Smart-City Management & Technology, as well as Digitalisation & Cloud Solutions</li>
   <li>💓 I'm passionate about building products which can bring more convenience and improve the well-being of our day-to-day lives</li>
-  <li>🤔 I'm interested in Cloud Infrastructure, Deep Learning, and DevOps</li>
+  <li>📚 I'm currently studying AWS Certified Cloud Practioner and enhancing my Data Structure and Algorithms knowledge.
+  <li>🤔 I'm interested in Cloud Infrastructure, Smart Livigin Intiatives, and Digital Payments</li>
   <li>🏆 I'm 1x Hackathon champion + 1x most innovative</li>
 </ul>
 

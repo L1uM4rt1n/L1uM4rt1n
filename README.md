@@ -12,7 +12,8 @@
 
 ## 👨‍💻 Work Experiences
 <ul>
-  <li> <b>May 2024 - Present</b>: DevOps Engineer Intern @ SAP</li>
+  <li> <b>Aug 2024 - Present</b>: BTP Solution Advisor Intern @ SAP</li>
+  <li> <b>May 2024 - Jul 2024</b>: DevOps Engineer Intern @ SAP</li>
   <li> <b>Jul 2023 - Apr 2024</b>: Full-Stack Developer Intern @ SAP</li>
   <li> <b>Jan 2023 - Jun 2023</b>: Data Intelligence Analyst Intern @ SAP</li>
   <li> <b>Jul 2022 - Sep 2022</b>: Data & Reporting Intern @ MindshareSG, GroupM SG</li>

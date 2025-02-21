@@ -4,7 +4,7 @@
   <li>🏫 I'm a Final Year student @ SMU IS</li>
   <li>💻 I'm pursuing a Bachelor of Science in Information Systems, specialising in Smart-City Management & Technology, as well as Digitalisation & Cloud Solutions</li>
   <li>💓 I'm passionate about building products which can bring more convenience and improve the well-being of our day-to-day lives</li>
-  <li>🤔 I'm interested in developing efficient and scalable Cloud solutions, as well as simplifying System Designs and Patterns</li>
+  <li>🤔 I'm interested an aspiring SRE and would love to work in Germany</li>
 </ul>
 
 ## 🌐 Social:
@@ -12,7 +12,8 @@
 
 ## 👨‍💻 Work Experiences
 <ul>
-  <li> <b>Aug 2024 - Present</b>: BTP Solution Advisor Intern @ SAP</li>
+  <li> <b>Jan 2025 - Apr 2025</b>: BTP AI Developer Intern @ SAP</li>
+  <li> <b>Aug 2024 - Dec 2024</b>: BTP Solution Advisor Intern @ SAP</li>
   <li> <b>May 2024 - Jul 2024</b>: DevOps Engineer Intern @ SAP</li>
   <li> <b>Jul 2023 - Apr 2024</b>: Full-Stack Developer Intern @ SAP</li>
   <li> <b>Jan 2023 - Jun 2023</b>: Data Intelligence Analyst Intern @ SAP</li>

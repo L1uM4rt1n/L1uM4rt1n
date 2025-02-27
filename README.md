@@ -4,7 +4,7 @@
   <li>🏫 I'm a Final Year student @ SMU IS</li>
   <li>💻 I'm pursuing a Bachelor of Science in Information Systems, specialising in Smart-City Management & Technology, as well as Digitalisation & Cloud Solutions</li>
   <li>💓 I'm passionate about building products which can bring more convenience and improve the well-being of our day-to-day lives</li>
-  <li>🤔 I'm an aspiring SRE and would love to work in Germany</li>
+  <li>🤔 I'm an aspiring SRE and loves to travel the world when I am free</li>
 </ul>
 
 ## 🌐 Social:

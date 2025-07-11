@@ -10,7 +10,7 @@
 
 ## 👨‍💻 Work Experiences
 <ul>
-  <li> <b>Jun 2025 - Present</b>: SRE @ OKX</li>
+  <li> <b>Jun 2025 - Present</b>: Infrastructure Engineer @ OKX</li>
   <li> <b>Jan 2025 - Apr 2025</b>: BTP AI Developer Intern @ SAP</li>
   <li> <b>Aug 2024 - Apr 2025</b>: BTP Solution Advisor Intern @ SAP</li>
   <li> <b>May 2024 - Jul 2024</b>: DevOps Engineer Intern @ SAP</li>

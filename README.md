@@ -18,8 +18,3 @@
   <li> <b>Jan 2023 - Jun 2023</b>: Data Intelligence Analyst Intern @ SAP</li>
   <li> <b>Jul 2022 - Sep 2022</b>: Data & Reporting Intern @ MindshareSG, GroupM SG</li>
 </ul>
-
-## 📊 GitHub Stats:
-### You are visitor number: &nbsp; <img src="https://profile-counter.glitch.me/L1uM4rt1n/count.svg?" width="300"/>
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=L1uM4rt1n&hide=jupyter%20notebook&theme=tokyonight&count-private=true&langs_count=10)](https://github.com/L1uM4rt1n/github-readme-stats)
-

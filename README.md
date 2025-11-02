@@ -1,7 +1,7 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=36&duration=3600&pause=1000&color=7491B2&vCenter=true&width=801&lines=Hi+there%2C+welcome+to+my+Github+Profile!)](https://git.io/typing-svg)
 ## 💫 About Me: 𝑀𝒶𝓇𝓉𝒾𝓃 𝐿𝒾𝓊
 <ul>
-  <li>👨‍💻 I am an Infrastructure Engineer @ OKX in the Ops & Maintenance team in charge of ensuring the availability of our <a href="www.okx.com">okx.com</a> services running globally</li>
+  <li>👨‍💻 I am an Infrastructure Engineer @ OKX in the Ops & Maintenance team in charge of ensuring the availability of our <a href="http://www.okx.com/" title="OKX website">okx.com</a> services running globally</li>
   <li>🏫 I am a Graduate from SMU IS in 2025 with a specialisation in Digitalisation & Cloud Solutions</li>
   <li>🏃 I run these days with the sole purpose of getting back to my peak fitness levels and to pass IPPT</li>
 </ul>

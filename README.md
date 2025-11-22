@@ -2,9 +2,9 @@
 ## 💫 About Me: 𝑀𝒶𝓇𝓉𝒾𝓃 𝐿𝒾𝓊
 <ul>
   <li>👨‍💻 I am an Infrastructure Engineer @ OKX in the Ops & Maintenance team in charge of ensuring the availability of our <a href="http://www.okx.com/" title="OKX website">okx.com</a> services running globally</li>
-  <li>👨‍💻 My past work experiences include a 2.5 years internship with SAP, spending a large portion of my time doing development work, as well as a Pre-sales to deepen my understanding on products and customer pain points</li>
-  <li>🏫 I am a Graduate from SMU IS in 2025 with a specialisation in Digitalisation & Cloud Solutions</li>
-  <li>🏃 I run these days with the sole purpose of getting back to my peak fitness levels and to pass IPPT</li>
+  <li>👨‍💻 My past work experiences include a 2.5 years internship with SAP, spending a large portion of my time doing dev and devop-related roles to enhance my coding proficiencies, as well as a pre-sales to deepen my understanding on building products that address customer pain points</li>
+  <li>🏫 I am a Graduate from SMU IS in 2025 with a specialisation in Digitalisation & Cloud Solutions & Smart City Management & Technology</li>
+  <li>🏃 I run these days with the sole purpose of getting back to my usual fitness levels, and I gym consistently every week. </li>
 </ul>
 
 ## 🌐 Social:
